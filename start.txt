@@ -1,9 +1,0 @@
-1.
-npm init react-app my-app
-cd my-app
-npm start
-
-2.
-px create-react-app project-name
-cd my-app
-npm start
